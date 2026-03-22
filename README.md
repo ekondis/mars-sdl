@@ -1,6 +1,7 @@
 # mars-sdl
 
 SDL2 port of a legacy DOS Mars landscape renderer.
+![img](https://github.com/user-attachments/assets/b0f22287-7e79-4f6f-9336-77ddbe1d03f1)
 
 This project is a line-by-line C translation of the original assembly renderer in `MARS.ASM`, as was disassembled by Wojciech Bruzda in his work [MARS.EXE → COM](https://chaos.if.uj.edu.pl/~wojtek/MARS.COM/).
 My motivation was my memories of the old DOS MARS rendered, originally written by Tim J. Clarke, which at the time pushed my CPU quite a lot.
